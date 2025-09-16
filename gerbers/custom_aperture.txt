@@ -1,0 +1,22 @@
+TangNanoDCJ11MEM-F_Cu.gtl:
+No Custom Aperture Present
+
+TangNanoDCJ11MEM-B_Cu.gbl:
+No Custom Aperture Present
+
+TangNanoDCJ11MEM-B_Mask.gbs:
+No Custom Aperture Present
+
+TangNanoDCJ11MEM-F_Mask.gts:
+No Custom Aperture Present
+
+TangNanoDCJ11MEM-B_Silkscreen.gbo:
+No Custom Aperture Present
+
+TangNanoDCJ11MEM-F_Silkscreen.gto:
+No Custom Aperture Present
+
+TangNanoDCJ11MEM-Edge_Cuts.gko:
+No Custom Aperture Present
+
+Total Custom Apertures Present:0
